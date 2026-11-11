@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Full Stack (前后端一起启动)" type="CompoundRunConfigurationType">
+    <toRun name="Backend (Spring Boot)" type="SpringBootApplicationConfigurationType" />
+    <toRun name="Frontend (npm run dev)" type="ShConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>

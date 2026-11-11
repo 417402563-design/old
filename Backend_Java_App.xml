@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Backend (Java App, Community版可用)" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.antifraud.AntiFraudApplication" />
+    <module name="anti-fraud-platform" />
+    <option name="SHORTEN_COMMAND_LINE" value="MANIFEST" />
+    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/backend" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
